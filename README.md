@@ -3,7 +3,7 @@ Example Data Science Portfolio
 
 # Project 1: Optimal Pricing Strategy for an Origin Destination (OD) Pair for a Prospective Ride-Hailing Service
 
-Created simulation run scenarios to find out the optimal price strategy for a specific OD pair
+Created simulation run scenarios to find out the optimal ride pricing strategy for a specific OD pair
 The following four pricing stratgeies were tested:
 1.	A single wage across the 12 months.
 2.	Twelve wages for each of the twelve months.
