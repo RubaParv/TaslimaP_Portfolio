@@ -17,7 +17,7 @@ The supply pool (“drivers”) is very deep. When a ride is requested, a very l
 
 P(accepted | wage) = wage / 30
 
-where wage is what we offer drivers for that ride and can range from $0 to $30.
+where wage is what we offer drivers for that ride and may range from $0 to $30.
 
 The demand pool (“riders”) can be acquired at a cost of $30 per rider at any time during the 12 months. “Acquisition” means that the rider has downloaded the app and may request rides. Requested rides may or may not be accepted by the driver pool. In the first month that riders are active, they request rides based on a Poisson distribution where lambda = 1. For each subsequent month, riders request rides based on a Poisson distribution where lambda is the number of rides that they found a match for in the previous month. (As an example, a rider that requests 3 rides in month 1 and finds 2 matches has a lambda of 2 going into month 2.) If a rider finds no matches in a month (which may happen either because they request no rides in the first place based on the Poisson distribution or because they request rides and find no matches), they leave the service and never return.
 
