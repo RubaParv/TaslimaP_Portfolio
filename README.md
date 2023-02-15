@@ -10,8 +10,7 @@ The following four pricing stratgeies were tested:
 3.	A wage for each rider in each of the twelve months.
 4.	A wage for each individual ride that the rider requests.
 
-Case Study Problem:
-You’re launching a ride-hailing service that matches riders with drivers for trips between the Toledo Airport and Downtown Toledo. It’ll be active for only 12 months. You’ve been forced to charge riders $30 for each ride. You can pay drivers any amount between $0 and $30 for each individual ride.
+Case Study Problem: You’re launching a ride-hailing service that matches riders with drivers for trips between the Toledo Airport and Downtown Toledo. It’ll be active for only 12 months. You’ve been forced to charge riders $30 for each ride. You can pay drivers any amount between $0 and $30 for each individual ride.
 
 The supply pool (“drivers”) is very deep. When a ride is requested, a very large pool of drivers see a notification informing them of the request. They can choose whether or not to fulfill it. The probability of a ride being accepted once it’s published to the pool of drivers is:
 
