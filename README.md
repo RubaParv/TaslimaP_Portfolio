@@ -1,5 +1,6 @@
 # TaslimaP_Portfolio
 Example Data Science Portfolio
+[Fore more coding details of each project, please visit: https://github.com/RubaParv/TaslimaP_Portfolio]
 
 # Project 1: Optimal Pricing Strategy for an Origin Destination (OD) Pair for a Prospective Ride-Hailing Service
 
