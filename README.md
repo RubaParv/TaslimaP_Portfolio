@@ -23,4 +23,4 @@ The demand pool (“riders”) can be acquired at a cost of $30 per rider at any
 What level of granularity should the optimal pricing strategy operate at?
 
 Answer:
-[](https://github.com/RubaParv/TaslimaP_Portfolio/blob/main/Images/Performances%20of%20Different%20Pricing%20Strategies.png)
+(https://github.com/RubaParv/TaslimaP_Portfolio/blob/main/Images/Performances%20of%20Different%20Pricing%20Strategies.png)
