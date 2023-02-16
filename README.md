@@ -49,3 +49,9 @@ Park visits increased as other recreational facilities were closed
 People tend to spend more time at home 
 Travel to groceries stays about the same to pre-covid level except during short period of time after stay-at-home orders 
 Both travel to transit stations and workplaces dropped significantly and these are slow to rebound 
+
+Example Time Series Trends:
+https://github.com/RubaParv/TaslimaP_Portfolio/blob/main/Images/newplot%20(24).png
+
+
+
