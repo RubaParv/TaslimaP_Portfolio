@@ -24,3 +24,28 @@ What level of granularity should the optimal pricing strategy operate at?
 
 Answer:
 https://github.com/RubaParv/TaslimaP_Portfolio/blob/main/Images/Performances%20of%20Different%20Pricing%20Strategies.png
+
+
+
+# Project 2: Covid-19 Impact of Visits to Businesses, Offices and Other Places of  Toronto in 2020
+
+The Community Mobility Reports by Google show movement trends by region, across different categories of places.
+The objective was to see the Covid impact on different sectorwise businesses and places, 
+so that top management may have some insights to decide operating budget in this Covid induced conditions.
+
+Baseline: The data shows how visitors to (or time spent in) categorized places change compared to our baseline days. 
+A baseline day represents a normal value for that day of the week. 
+The baseline day is the median value from the 5 week period Jan 3 – Feb 6, 2020.
+The mobility reports show relative changes, and not absolute visitors or duration.
+This study covers Toronto Area visits only.
+
+
+The raw excel or csv file data compares mobility for the report date to the baseline day. 
+It was calculated for the report date (unless there are gaps) and reported as a positive or negative percentage.
+
+Some Key Takeways:
+Visits or travel to all places including transit stations, workplaces, retails and recreation dropped significantly during the pandemic
+Park visits increased as other recreational facilities were closed
+People tend to spend more time at home 
+Travel to groceries stays about the same to pre-covid level except during short period of time after stay-at-home orders 
+Both travel to transit stations and workplaces dropped significantly and these are slow to rebound 
