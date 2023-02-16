@@ -53,5 +53,13 @@ Both travel to transit stations and workplaces dropped significantly and these a
 Example Time Series Trends:
 https://github.com/RubaParv/TaslimaP_Portfolio/blob/main/Images/newplot%20(24).png
 
+https://github.com/RubaParv/TaslimaP_Portfolio/blob/main/Images/newplot%20(25).png
 
+https://github.com/RubaParv/TaslimaP_Portfolio/blob/main/Images/newplot%20(26).png
+
+https://github.com/RubaParv/TaslimaP_Portfolio/blob/main/Images/newplot%20(27).png
+
+https://github.com/RubaParv/TaslimaP_Portfolio/blob/main/Images/newplot%20(28).png
+
+https://github.com/RubaParv/TaslimaP_Portfolio/blob/main/Images/newplot%20(29).png
 
