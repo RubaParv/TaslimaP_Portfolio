@@ -3,6 +3,17 @@ Example Data Science Portfolio
 [Fore more coding details of each project, please visit: https://github.com/RubaParv/TaslimaP_Portfolio]
 [Please note that I am still working on uploading all data science and machine learning projects one by one]
 
+# Project 4: Business Intelligence Dashboard of a Car Dealership 
+
+Analyze the used car sales data of a car dealership and derive business insgights from the sales data.
+
+Dashboard View 1: https://github.com/RubaParv/TaslimaP_Portfolio/blob/main/Images/UC1.JPG
+
+Dashboard View 2: https://github.com/RubaParv/TaslimaP_Portfolio/blob/main/Images/UC2.JPG
+
+
+
+
 # Project 3: PowerBI Dashboard of Claims Status 
 
 Analyze the claim status that a car parts distribution centre deals with as parts not recieved, recieved damaaged or received defective.
