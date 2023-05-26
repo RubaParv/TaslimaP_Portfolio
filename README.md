@@ -3,6 +3,15 @@ Example Data Science Portfolio
 [Fore more coding details of each project, please visit: https://github.com/RubaParv/TaslimaP_Portfolio]
 [Please note that I am still working on uploading all data science and machine learning projects one by one]
 
+# Project 3: PowerBI Dashboard of Claims Status 
+
+Analyze the claim status that a car parts distribution centre deals with as parts not recieved, recieved damaaged or received defective.
+Create an interactive PowerBI dashboard for claim status, disposition status and top items, and provide insights.
+
+Dashboard View 1: (https://github.com/RubaParv/TaslimaP_Portfolio/blob/main/Images/VIEW%201.JPG)
+Dashboard View 2: (https://github.com/RubaParv/TaslimaP_Portfolio/blob/main/Images/VIEW%202.JPG)
+Dashboard View 3: (https://github.com/RubaParv/TaslimaP_Portfolio/blob/main/Images/VIEW%203.JPG)
+
 # Project 1: Optimal Pricing Strategy for an Origin Destination (OD) Pair for a Prospective Ride-Hailing Service
 
 Created simulation run scenarios to find out the optimal ride pricing strategy for a specific OD pair
